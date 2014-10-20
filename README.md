@@ -1,4 +1,4 @@
 MyTestRepo
 ==========
 
-Testing stuff only
+Testing stuff only.
