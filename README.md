@@ -1,4 +1,0 @@
-MyTestRepo
-==========
-
-Testing stuff only.
